@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429823596347",
+    "project_id": "mdev-phone-spec",
+    "storage_bucket": "mdev-phone-spec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429823596347:android:a11d0d0f6c9bc91787c91e",
+        "android_client_info": {
+          "package_name": "com.example.phone_specs_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEaRpNaZ3aiKvb-6sLCQ25AC0Jfx3Uvgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">429823596347</string>
+    <string name="google_api_key" translatable="false">AIzaSyAEaRpNaZ3aiKvb-6sLCQ25AC0Jfx3Uvgk</string>
+    <string name="google_app_id" translatable="false">1:429823596347:android:a11d0d0f6c9bc91787c91e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAEaRpNaZ3aiKvb-6sLCQ25AC0Jfx3Uvgk</string>
+    <string name="google_storage_bucket" translatable="false">mdev-phone-spec.appspot.com</string>
+    <string name="project_id" translatable="false">mdev-phone-spec</string>
+</resources>

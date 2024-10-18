@@ -1,0 +1,1 @@
+ D:\\Work\\Mobile_Development\\prj\\phone_specs_app\\.dart_tool\\flutter_build\\a93b3d4f7e651b78c7efe3ae3024ab6f\\native_assets.yaml: 
